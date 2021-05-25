@@ -10,7 +10,7 @@ function App(){
     <div>
       <Welcome name="jung" />
       <Welcome name="ye" />
-      <Welcome name="won" />
+      <Welcome name="won" />  
     </div>
   )
 }
